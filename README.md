@@ -16,6 +16,6 @@ The work was based on
 - Tested on LSPosed but should work on other Xposed-like frameworks
 
 ## Download
-[Github Release](https://github.com/zehuanli/Oneplus-No-Red-One/releases/latest)
+[Latest Release](https://github.com/Xposed-Modules-Repo/com.upbad.apps.opgo/releases/latest)
 
 [Xposed Repo](https://repo.xposed.info/module/com.upbad.apps.opgo)
