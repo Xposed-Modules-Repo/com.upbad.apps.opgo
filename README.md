@@ -5,4 +5,4 @@ An Xposed module to prevent Oneplus from making red "1" digits on the keyguard, 
 
 If you hate the red "1" characters on the clocks like me, you may try this Xposed module to get rid of it.
 
-Supports OOS 11, OOS 12, OOS 13, and OOS 14.
+Supports OOS 11, OOS 12, OOS 13, OOS 14, and OOS 15.
